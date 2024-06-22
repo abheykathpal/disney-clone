@@ -9,7 +9,6 @@ import { HiTv } from "react-icons/hi2";
 import { HiDotsVertical } from "react-icons/hi";
 import HeaderItem from './HeaderItem';
 const Header = () => {
-
     const [toggle, setToggle] = useState(false);
 
     const menu = [
